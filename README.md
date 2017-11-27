@@ -2,4 +2,6 @@
 
 https://corentinn.github.io/exercice-9-team-presentation/
 
-Chez BeCode: premier projet en groupe!
+Chez BeCode: premier projet en groupe! 
+
+(test sur mac pour remote)
